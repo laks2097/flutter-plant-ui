@@ -19,4 +19,4 @@ samples, guidance on mobile development, and a full API reference.
 # Screenshots
 
 
-<a href="https://drive.google.com/uc?export=view&id=1Am5uAV_eaiGMce6Qo2ePPQCmeoJA7ws0"><img src="https://drive.google.com/uc?export=view&id=1Am5uAV_eaiGMce6Qo2ePPQCmeoJA7ws0" style="width: 360px; max-width: 100%; height: auto" title="Click to enlarge picture" />
+<a href="https://drive.google.com/uc?export=view&id=1Am5uAV_eaiGMce6Qo2ePPQCmeoJA7ws0"><img src="https://drive.google.com/uc?export=view&id=1Am5uAV_eaiGMce6Qo2ePPQCmeoJA7ws0" style="width: 360px; height:480px;" title="Click to enlarge picture" />
