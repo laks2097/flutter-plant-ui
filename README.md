@@ -18,8 +18,8 @@ samples, guidance on mobile development, and a full API reference.
 
 # Screenshots
 
-![Screen 1](https://drive.google.com/file/d/1Am5uAV_eaiGMce6Qo2ePPQCmeoJA7ws0/view)
+![Screen 1](https://drive.google.com/uc?export=view&id=1Am5uAV_eaiGMce6Qo2ePPQCmeoJA7ws0)
 
-![Screen 2](https://drive.google.com/file/d/1MF57tlJKCOMmpH-XUm3ssVtIVPrQEaBx/view)
+![Screen 2](https://drive.google.com/uc?export=view&id=1MF57tlJKCOMmpH-XUm3ssVtIVPrQEaBx)
 
-![Screen 3](https://drive.google.com/file/d/1D3Vh5LyfKlvVmlZVy5N9_cEAEEXIOtny/view)
+![Screen 3](https://drive.google.com/uc?export=view&id=1D3Vh5LyfKlvVmlZVy5N9_cEAEEXIOtny)
